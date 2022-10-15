@@ -9,3 +9,8 @@
 ### 📫 Connect with me:
 [![Discord](./Images/Discord.svg)](https://discord.com/users/810853382193545227)
 [![LinkedIn](./Images/LinkedIn.svg)](https://linkedin.com/in/danialkamali)
+
+<!---
+Icons by Icons8
+https://icons8.com
+-->
