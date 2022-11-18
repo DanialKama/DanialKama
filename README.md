@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an indie game
 - 🌱 I’m currently learning everything related to game development
-- 💬 Message me if you have any quistion or suggestion about my projects
+- 💬 Message me if you have any questions or suggestions about my projects
 
 ### 📫 Connect with me:
 [![Discord](./Images/Discord.svg)](https://discord.com/users/810853382193545227)
