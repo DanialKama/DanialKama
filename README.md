@@ -9,6 +9,7 @@
 ### 📫 Connect with me:
 [![Discord](./Images/Discord.svg)](https://discord.com/users/810853382193545227)
 [![LinkedIn](./Images/LinkedIn.svg)](https://linkedin.com/in/danialkamali)
+[![itch.io](./Images/itchio.svg)](https://danialkama.itch.io/)
 
 <!---
 Icons by Icons8
