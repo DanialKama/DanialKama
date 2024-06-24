@@ -1,6 +1,6 @@
 # Hi there, I'm Danial 👋
 
-## I'm an Unreal Engine Developer 🎮
+## I'm an Unreal Engine Developer ![UnrealEngine](./Images/UnrealEngine.svg)
 
 - 🔭 I’m currently working on an indie game called [Only Animals](https://k-rad.itch.io/only-animals)
 - 🌱 Learning everything related to game development from AI to UI
