@@ -2,8 +2,8 @@
 
 ## I'm an Unreal Engine Developer 🎮
 
-- 🔭 I’m currently developing simulations for big industries like the steel industry and also in my free time I work on an indie game
-- 🌱 I’m currently learning everything related to game development from AI to UI
+- 🔭 I’m currently working on an indie game called [Only Animals](https://k-rad.itch.io/only-animals)
+- 🌱 Learning everything related to game development from AI to UI
 - 💬 Message me if you have any questions or suggestions about my projects
 
 ### 📫 Connect with me:
